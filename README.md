@@ -5,6 +5,8 @@
 
 嗯就这样吧
 
+改编自https://github.com/mm-jiahong/2048Luoxiaohei
+
 html、css、js都不会的我只能改到这种程度了
 
 关于移动端的适配问题，实在是不想改了，暂时先这样了
